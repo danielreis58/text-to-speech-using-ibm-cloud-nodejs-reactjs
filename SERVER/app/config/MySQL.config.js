@@ -2,7 +2,7 @@ const host = 'localhost'
 const port = 3306
 const user = 'daniel'
 const password = 'daniel123'
-const database = 'smartkio'
+const database = 'smarkio'
 
 module.exports = {
     host: host,
